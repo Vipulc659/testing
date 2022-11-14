@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "testing"
+  site-url: "https://Vipulc659.github.io/testing"
+  description: "test"
+  repo-branch: main
+  repo-url: "https://github.com/Vipulc659/testing"
